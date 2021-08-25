@@ -1,3 +1,5 @@
+<img src='https://storage.yandexcloud.net/datasouls-ods/static/meta_tags/1200x628.jpg'>
+
 # Open-Data-Science-Hmwrks
 Machine Learning course homeworks
 
